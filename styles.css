@@ -1,0 +1,84 @@
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+    background: url(./images/Gallery\ of\ CRAFT\ \ _\ Sameep\ Padora\ &\ Associates\ \ -\ 6.jpeg);
+    background-position: center center;
+    background-size: cover;
+    /* background-color: green; */
+    border-radius: .3rem; 
+    font-family: "Sofia", sans-serif;
+    color: white;
+  }
+
+  .card-header{
+      background-color:  rgb(172, 7, 7);;
+      color: white;
+      font-family: "Sofia", sans-serif;
+  }
+
+   h1{
+      background-color: rgb(172, 7, 7);
+      width: 250px;
+      text-align: center; 
+      margin-left: 40%;
+
+  }
+   p{
+     background: rgb(172, 7, 7);
+     font-size: 30px;
+     width: 250px ;
+     text-align: center;
+     margin-left: 40%;
+ }
+
+ footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+ }
+
+ 
+.card-body img{
+    height: 300px ;
+
+}
+
+.bg{
+    background: url(./images/WoodStyle2017-01\ wallpaper\ by\ druffix2\ -\ 40\ -\ Free\ on\ ZEDGE™.jpeg);
+}
+
+#pizzainfo{
+    display: none;
+    opacity: 1;
+    width: 25%;
+    height: 55%;
+    margin-top: 20%;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 20px;
+    background-color: maroon;
+    color: mintcream;
+    /* text-align: center; */
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 2em;
+}
+
+a{
+    text-decoration: none;
+    color: mintcream;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
